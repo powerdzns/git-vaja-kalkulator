@@ -29,3 +29,6 @@ python -m unittest -v
 ## Namen projekta
 
 Na projektu preizkušam nadzor različic, delo z vejami, združevanje sprememb in uporabo GitHuba.
+## Razvoj
+
+Spremembe razvijam na ločenih vejah.
