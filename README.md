@@ -32,3 +32,6 @@ Na projektu preizkušam nadzor različic, delo z vejami, združevanje sprememb i
 ## Razvoj
 
 Spremembe razvijam na ločenih vejah.
+
+Projekt vsebuje tudi datoteko s kratkimi navodili.
+Projekt
