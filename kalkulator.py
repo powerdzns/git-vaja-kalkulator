@@ -17,7 +17,7 @@ def deli(a, b):
 
 
 def main():
-    print("Preprost kalkulator")
+    print("Preprost kalkulator - Git vaja")
     print("1 - Seštevanje")
     print("2 - Odštevanje")
     print("3 - Množenje")
