@@ -38,3 +38,5 @@ Projekt
 Projekt uporabljam tudi za napredne ukaze Git.
 
 To besedilo začasno shranim z ukazom stash.
+
+Projekt sem uspešno kloniral in spremembo poslal iz druge lokalne kopije.
