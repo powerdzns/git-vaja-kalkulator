@@ -1,0 +1,3 @@
+[submodule "zunanji/hello-world"]
+	path = zunanji/hello-world
+	url = https://github.com/powerdzns/Hello-World.git
