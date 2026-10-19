@@ -1,1 +1,1 @@
-Program zaženem z ukazom python kalkulator.py.
+Pred zagonom kalkulatorja preverim, da je nameščen Python 3.
