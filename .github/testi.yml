@@ -1,0 +1,26 @@
+name: Testi kalkulatorja
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  testi:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Prenesi projekt
+        uses: actions/checkout@v7
+
+      - name: Pripravi Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+
+      - name: Zaženi teste
+        run: python -m unittest -v
