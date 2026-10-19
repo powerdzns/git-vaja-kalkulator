@@ -1,1 +1,1 @@
-Program zaženem z ukazom python kalkulator.py.
+Kalkulator zaženem v terminalu z ukazom python kalkulator.py.
