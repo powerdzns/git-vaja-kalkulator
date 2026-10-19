@@ -1,0 +1,46 @@
+def sestej(a, b):
+    return a + b
+
+
+def odstej(a, b):
+    return a - b
+
+
+def pomnozi(a, b):
+    return a * b
+
+
+def deli(a, b):
+    if b == 0:
+        raise ValueError("Deljenje z nič ni dovoljeno.")
+    return a / b
+
+
+def main():
+    print("Preprost kalkulator")
+    print("1 - Seštevanje")
+    print("2 - Odštevanje")
+    print("3 - Množenje")
+    print("4 - Deljenje")
+
+    izbira = input("Izberi operacijo: ")
+    prvo_stevilo = float(input("Vnesi prvo število: "))
+    drugo_stevilo = float(input("Vnesi drugo število: "))
+
+    if izbira == "1":
+        rezultat = sestej(prvo_stevilo, drugo_stevilo)
+    elif izbira == "2":
+        rezultat = odstej(prvo_stevilo, drugo_stevilo)
+    elif izbira == "3":
+        rezultat = pomnozi(prvo_stevilo, drugo_stevilo)
+    elif izbira == "4":
+        rezultat = deli(prvo_stevilo, drugo_stevilo)
+    else:
+        print("Izbrana operacija ni veljavna.")
+        return
+
+    print(f"Rezultat: {rezultat}")
+
+
+if __name__ == "__main__":
+    main()

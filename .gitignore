@@ -1,0 +1,9 @@
+# Začasne datoteke programa Python
+__pycache__/
+*.py[cod]
+
+# Lokalne nastavitve urejevalnika
+.vscode/
+
+# Datoteke z zaupnimi podatki
+.env
