@@ -40,3 +40,12 @@ Projekt uporabljam tudi za napredne ukaze Git.
 To besedilo začasno shranim z ukazom stash.
 
 Projekt sem uspešno kloniral in spremembo poslal iz druge lokalne kopije.
+
+## Različica
+
+Trenutna različica je 1.0.0.
+
+Uporabljam obliko MAJOR.MINOR.PATCH:
+- MAJOR pomeni nezdružljive spremembe.
+- MINOR pomeni nove združljive funkcionalnosti.
+- PATCH pomeni združljive popravke napak.
