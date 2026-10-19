@@ -33,13 +33,9 @@ Na projektu preizkušam nadzor različic, delo z vejami, združevanje sprememb i
 
 Spremembe razvijam na ločenih vejah.
 
-Projekt vsebuje tudi datoteko s kratkimi navodili.
 Projekt
 Projekt uporabljam tudi za napredne ukaze Git.
 
-To besedilo začasno shranim z ukazom stash.
-
-Projekt sem uspešno kloniral in spremembo poslal iz druge lokalne kopije.
 
 ## Različica
 
