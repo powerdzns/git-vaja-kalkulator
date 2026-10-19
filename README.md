@@ -36,3 +36,5 @@ Spremembe razvijam na ločenih vejah.
 Projekt vsebuje tudi datoteko s kratkimi navodili.
 Projekt
 Projekt uporabljam tudi za napredne ukaze Git.
+
+To besedilo začasno shranim z ukazom stash.
